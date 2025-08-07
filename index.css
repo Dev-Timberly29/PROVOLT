@@ -64,7 +64,6 @@ footer{
     padding: 10px,10px;
     color: var(--main-text-color);
     z-index: 999;
-    margin-top: 233px;
     border-top: 2px solid black;
     max-width: 100%;
 }
